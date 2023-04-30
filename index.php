@@ -32,6 +32,6 @@ function calculateAge ($person_arr){
   echo "<div>What more is there to say? I love {$about_me["favorite_food"]}, and that's pretty much it!</div>";
 ?>
 
-
+ 
 </body>
 </html>
